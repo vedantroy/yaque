@@ -193,7 +193,7 @@
 //! Pull requests and contributions are also greatly appreciated.
 //!
 
-mod error;
+pub mod error;
 mod header;
 mod state;
 mod sync;
